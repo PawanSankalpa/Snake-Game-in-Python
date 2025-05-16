@@ -89,12 +89,12 @@ python main.py
 - Beat your own high score stored in data.txt.
 
 ## 📂 What's Inside
-- **File**  	What it does
-- **main.py**   	Runs the game loop and connects all components
-- **snake.py**  	Handles snake segments, movement, and growing
-- **food.py**   	Manages food behavior and random positioning
-- **scoreboard.py** 	Displays and tracks score + high score
-- **data.txt**  	Stores your highest score
+
+- **main.py**  ---	Runs the game loop and connects all components
+- **snake.py**  --- Handles snake segments, movement, and growing
+- **food.py**  --- Manages food behavior and random positioning
+- **scoreboard.py** ---Displays and tracks score + high score
+- **data.txt** --- Stores your highest score
 
 ## 💡 Extra Ideas I Might Try Later
 - Add sound effects
